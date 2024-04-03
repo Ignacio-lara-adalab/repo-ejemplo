@@ -1,2 +1,2 @@
-# repo-ejemplo
-este repo es de ejemplo para practicar!!!
+# Repositorio de entrenamiento
+1) este repo es de ejemplo para practicar!
